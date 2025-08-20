@@ -24,6 +24,10 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+
+        <p>
+          Hellooo!!!
+        </p>
         <p>
           Sample Project file by Vite + React
         </p>
